@@ -1,0 +1,75 @@
+[ 2020-04-19 22:09:22 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 13] 这是一条debug 级别的日志信息
+[ 2020-04-19 22:09:23 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 14] 这是一条infor级别的日志信息
+[ 2020-04-19 22:09:23 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 15] 这是一条Erro级别的日志信息
+[ 2020-04-19 22:09:25 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 13] 这是一条debug 级别的日志信息
+[ 2020-04-19 22:09:25 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 14] 这是一条infor级别的日志信息
+[ 2020-04-19 22:09:25 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 15] 这是一条Erro级别的日志信息
+[ 2020-04-19 22:09:27 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 13] 这是一条debug 级别的日志信息
+[ 2020-04-19 22:09:27 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 14] 这是一条infor级别的日志信息
+[ 2020-04-19 22:09:27 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 15] 这是一条Erro级别的日志信息
+[ 2020-04-19 22:09:29 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 13] 这是一条debug 级别的日志信息
+[ 2020-04-19 22:09:29 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 14] 这是一条infor级别的日志信息
+[ 2020-04-19 22:09:29 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 15] 这是一条Erro级别的日志信息
+[ 2020-04-19 22:09:31 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 13] 这是一条debug 级别的日志信息
+[ 2020-04-19 22:09:31 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 14] 这是一条infor级别的日志信息
+[ 2020-04-19 22:09:31 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 15] 这是一条Erro级别的日志信息
+[ 2020-04-19 22:10:33 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 13] 这是一条debug 级别的日志信息
+[ 2020-04-19 22:10:33 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 14] 这是一条infor级别的日志信息
+[ 2020-04-19 22:10:33 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 15] 这是一条Erro级别的日志信息
+[ 2020-04-19 22:10:35 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 13] 这是一条debug 级别的日志信息
+[ 2020-04-19 22:10:35 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 14] 这是一条infor级别的日志信息
+[ 2020-04-19 22:10:35 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 15] 这是一条Erro级别的日志信息
+[ 2020-04-19 22:10:37 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 13] 这是一条debug 级别的日志信息
+[ 2020-04-19 22:10:37 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 14] 这是一条infor级别的日志信息
+[ 2020-04-19 22:10:37 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 15] 这是一条Erro级别的日志信息
+[ 2020-04-19 22:10:39 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 13] 这是一条debug 级别的日志信息
+[ 2020-04-19 22:10:39 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 14] 这是一条infor级别的日志信息
+[ 2020-04-19 22:10:39 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 15] 这是一条Erro级别的日志信息
+[ 2020-04-19 22:10:41 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 13] 这是一条debug 级别的日志信息
+[ 2020-04-19 22:10:41 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 14] 这是一条infor级别的日志信息
+[ 2020-04-19 22:10:41 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 15] 这是一条Erro级别的日志信息
+[ 2020-04-19 22:10:43 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 13] 这是一条debug 级别的日志信息
+[ 2020-04-19 22:10:43 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 14] 这是一条infor级别的日志信息
+[ 2020-04-19 22:10:43 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 15] 这是一条Erro级别的日志信息
+[ 2020-04-19 22:10:45 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 13] 这是一条debug 级别的日志信息
+[ 2020-04-19 22:10:45 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 14] 这是一条infor级别的日志信息
+[ 2020-04-19 22:10:45 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 15] 这是一条Erro级别的日志信息
+[ 2020-04-19 22:10:47 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 13] 这是一条debug 级别的日志信息
+[ 2020-04-19 22:10:47 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 14] 这是一条infor级别的日志信息
+[ 2020-04-19 22:10:47 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 15] 这是一条Erro级别的日志信息
+[ 2020-04-19 22:10:49 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 13] 这是一条debug 级别的日志信息
+[ 2020-04-19 22:10:49 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 14] 这是一条infor级别的日志信息
+[ 2020-04-19 22:10:49 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 15] 这是一条Erro级别的日志信息
+[ 2020-04-19 22:10:51 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 13] 这是一条debug 级别的日志信息
+[ 2020-04-19 22:10:51 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 14] 这是一条infor级别的日志信息
+[ 2020-04-19 22:10:51 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 15] 这是一条Erro级别的日志信息
+[ 2020-04-19 22:10:53 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 13] 这是一条debug 级别的日志信息
+[ 2020-04-19 22:10:53 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 14] 这是一条infor级别的日志信息
+[ 2020-04-19 22:10:53 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 15] 这是一条Erro级别的日志信息
+[ 2020-04-19 22:10:55 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 13] 这是一条debug 级别的日志信息
+[ 2020-04-19 22:10:55 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 14] 这是一条infor级别的日志信息
+[ 2020-04-19 22:10:55 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 15] 这是一条Erro级别的日志信息
+[ 2020-04-19 22:10:57 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 13] 这是一条debug 级别的日志信息
+[ 2020-04-19 22:10:57 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 14] 这是一条infor级别的日志信息
+[ 2020-04-19 22:10:57 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 15] 这是一条Erro级别的日志信息
+[ 2020-04-19 22:10:59 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 13] 这是一条debug 级别的日志信息
+[ 2020-04-19 22:10:59 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 14] 这是一条infor级别的日志信息
+[ 2020-04-19 22:10:59 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 15] 这是一条Erro级别的日志信息
+[ 2020-04-19 22:11:01 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 13] 这是一条debug 级别的日志信息
+[ 2020-04-19 22:11:01 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 14] 这是一条infor级别的日志信息
+[ 2020-04-19 22:11:01 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 15] 这是一条Erro级别的日志信息
+[ 2020-04-19 22:11:03 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 13] 这是一条debug 级别的日志信息
+[ 2020-04-19 22:11:03 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 14] 这是一条infor级别的日志信息
+[ 2020-04-19 22:11:03 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 15] 这是一条Erro级别的日志信息
+[ 2020-04-19 22:11:05 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 13] 这是一条debug 级别的日志信息
+[ 2020-04-19 22:11:05 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 14] 这是一条infor级别的日志信息
+[ 2020-04-19 22:11:05 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 15] 这是一条Erro级别的日志信息
+[ 2020-04-19 22:11:07 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 13] 这是一条debug 级别的日志信息
+[ 2020-04-19 22:11:07 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 14] 这是一条infor级别的日志信息
+[ 2020-04-19 22:11:07 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 15] 这是一条Erro级别的日志信息
+[ 2020-04-19 22:11:09 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 13] 这是一条debug 级别的日志信息
+[ 2020-04-19 22:11:09 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 14] 这是一条infor级别的日志信息
+[ 2020-04-19 22:11:09 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 15] 这是一条Erro级别的日志信息
+[ 2020-04-19 22:11:11 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 13] 这是一条debug 级别的日志信息
+[ 2020-04-19 22:11:11 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 14] 这是一条infor级别的日志信息
+[ 2020-04-19 22:11:11 ] [ debug ] [main.logsRecord D:/goproject/src/hello/logs/main.go 15] 这是一条Erro级别的日志信息
